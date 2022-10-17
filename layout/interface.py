@@ -79,5 +79,3 @@ def novoCadastro():
             print('\033[0;31mErro ao cadastrar a idade, tente novamente.\033[m')
         else:
             break
-    l()
-    cadastrar(nome,idade)
